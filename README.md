@@ -1,4 +1,4 @@
-![Farzam Fattahi — Computer Vision and Machine Learning](assets/profile-banner.png)
+![Farzam Fattahi — Computer Vision and Machine Learning](assets/profile-banner-burgundy.png)
 
 <h3><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/vision-eye-transparent-static.png"><img src="assets/vision-eye-transparent.gif" alt="A gently blinking eye" width="42" height="28"></picture>&nbsp; Hi, I'm Farzam</h3>
 
