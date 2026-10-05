@@ -1,6 +1,6 @@
 ![Farzam Fattahi — Computer Vision and Machine Learning](assets/profile-banner.png)
 
-<h3><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/vision-eye-static.png"><img src="assets/vision-eye.gif" alt="A gently blinking eye" width="42" height="28"></picture>&nbsp; Hi, I'm Farzam</h3>
+<h3><picture><source media="(prefers-reduced-motion: reduce)" srcset="assets/vision-eye-transparent-static.png"><img src="assets/vision-eye-transparent.gif" alt="A gently blinking eye" width="42" height="28"></picture>&nbsp; Hi, I'm Farzam</h3>
 
 <img src="assets/about-quote.svg" alt="I teach machines to see and humans to code. Both keep me on my toes." width="660">
 
