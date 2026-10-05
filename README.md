@@ -1,17 +1,13 @@
 ![Farzam Fattahi — Computer Vision and Machine Learning](assets/profile-banner.svg)
 
-<img align="right" src="assets/portrait.png" alt="Farzam Fattahi" width="132">
-
 ### Hi, I'm Farzam
 
-*I teach machines to see and humans to code. Both keep me on my toes.*
+> **I teach machines to see and humans to code. Both keep me on my toes.**
 
 I build computer-vision tools and explore reliable ML evaluation, medical image classification, and efficient inference. Electrical engineering graduate from **IUST**, with a minor in computer engineering; Python and machine-learning instructor.
 
 <a href="cv/Farzam_Fattahi_Academic_CV_V7.pdf"><img src="assets/cv-english.svg" alt="Download my English academic CV" height="32"></a>
 <a href="cv/Farzam_Fattahi_Akademischer_Lebenslauf_DE_V7.pdf"><img src="assets/cv-german.svg" alt="Download my German academic CV" height="32"></a>
-
-<br clear="right">
 
 ### Things I've built
 

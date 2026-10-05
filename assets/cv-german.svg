@@ -1,4 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="150" height="32" viewBox="0 0 150 32" role="img" aria-label="CV · Deutsch">
-<title>CV · Deutsch</title><rect width="150" height="32" rx="5" fill="#1b6b73"/>
+<title>CV · Deutsch</title><defs><linearGradient id="light" x2="0" y2="1"><stop stop-color="white" stop-opacity=".09"/><stop offset="1" stop-color="white" stop-opacity="0"/></linearGradient></defs>
+<rect width="150" height="32" rx="6" fill="#0F766E"/><rect x=".5" y=".5" width="149" height="31" rx="5.5" fill="url(#light)" stroke="white" stroke-opacity=".15"/>
 <g transform="translate(11 6)" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" fill="none"><path d="M5 1h7l4 4v14H4V1h1Z"/><path d="M12 1v5h4M7 10h6M7 14h6"/></g>
 <text x="40" y="21" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" fill="white">CV · Deutsch</text></svg>
