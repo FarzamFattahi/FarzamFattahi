@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="224" viewBox="0 0 1000 224" role="img" aria-labelledby="title">
+<title id="title">I teach machines to see and humans to code. Both keep me on my toes.</title>
+<defs><linearGradient id="bg"><stop stop-color="#122338"/><stop offset="1" stop-color="#1B203C"/></linearGradient><linearGradient id="accent" x2="0" y2="1"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#A78BFA"/></linearGradient></defs>
+<rect x="1" y="1" width="998" height="222" rx="14" fill="url(#bg)" stroke="#34445E"/>
+<rect x="24" y="28" width="5" height="168" rx="2.5" fill="url(#accent)"/>
+<g font-family="Segoe UI,Arial,sans-serif" font-weight="700" font-size="46">
+<text x="58" y="70" fill="#67D5FC">I teach machines to see</text>
+<text x="58" y="124" fill="#F1F5F9">and humans to code.</text>
+<text x="58" y="179" fill="#C4B5FD" font-size="36" font-weight="600">Both keep me on my toes.</text>
+</g></svg>
