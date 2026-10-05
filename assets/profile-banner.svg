@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="270" viewBox="0 0 1280 270" role="img" aria-labelledby="title desc">
+  <title id="title">Farzam Fattahi — Computer Vision and Machine Learning</title>
+  <desc id="desc">A navy banner with clear typography and a geometric image-frame motif.</desc>
+  <rect width="1280" height="270" rx="18" fill="#101c29"/>
+  <path d="M858 0v270M938 0v270M1018 0v270M1098 0v270M1178 0v270M778 55h502M778 135h502M778 215h502" stroke="#1c2d3e" stroke-width="1"/>
+  <rect x="52" y="48" width="46" height="5" rx="2.5" fill="#80c9bd"/>
+  <text x="52" y="124" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="650" fill="#f4f7fa">Farzam Fattahi</text>
+  <text x="55" y="172" font-family="Segoe UI,Arial,sans-serif" font-size="26" fill="#c1cdd8">Computer Vision &amp; Machine Learning</text>
+  <text x="55" y="217" font-family="Segoe UI,Arial,sans-serif" font-size="18" fill="#80c9bd" letter-spacing="2.5">RESEARCH · DATA QUALITY · APPLIED TOOLS</text>
+  <g fill="none" stroke="#80c9bd" stroke-width="3">
+    <path d="M980 60h-35v35M1125 60h35v35M945 175v35h35M1160 175v35h-35"/>
+    <rect x="993" y="100" width="120" height="78" rx="4" stroke="#57798f"/>
+    <path d="M1007 161l30-28 22 17 20-31 20 42" stroke="#80c9bd"/>
+    <circle cx="1021" cy="119" r="6" fill="#80c9bd" stroke="none"/>
+  </g>
+</svg>
