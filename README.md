@@ -18,6 +18,7 @@ I build computer-vision tools and explore reliable ML evaluation, medical image 
 | **[SplitLens](https://github.com/FarzamFattahi/splitlens)** | Image dataset audits for duplicates, leakage, and quality. | [Live app](https://farzamfattahi.github.io/splitlens/) |
 | **[Prooflane](https://github.com/FarzamFattahi/prooflane)** | Screenshot comparison, region review, and HTML reports. | [Live app](https://farzamfattahi.github.io/prooflane/) |
 | **[AirCursor](https://github.com/FarzamFattahi/aircursor)** | Webcam gestures for smooth Windows mouse control. | [Source & setup](https://github.com/FarzamFattahi/aircursor#quick-start) |
+| **[ScreenInk](https://github.com/FarzamFattahi/ScreenInk)** | Portable Windows teaching canvas: press F8 to draw, highlight, annotate, and save your screen. | [Download & guide](https://github.com/FarzamFattahi/ScreenInk#start-in-under-a-minute) |
 
 Also: **[Document Scanner](https://github.com/FarzamFattahi/document-scanner)** · perspective correction and OCR &nbsp; / &nbsp; **[Biscuit AR](https://github.com/FarzamFattahi/biscuit-ar)** · mobile web AR
 
